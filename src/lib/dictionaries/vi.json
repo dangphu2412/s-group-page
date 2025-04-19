@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "description": "S-Group - Tổ chức sinh viên"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi"
+  },
+  "home": {
+    "hero": {
+      "headline": "S-Group - Tổ chức sinh viên",
+      "description": "Chúng tôi là một tổ chức do sinh viên lãnh đạo, tập trung vào việc phát triển kỹ năng và thúc đẩy sự phát triển trong lĩnh vực công nghệ, marketing và thiết kế.",
+      "cta": "Tìm hiểu thêm"
+    },
+    "story": {
+      "title": "Câu chuyện của chúng tôi",
+      "description": "S-Group được thành lập với tầm nhìn thu hẹp khoảng cách giữa học tập học thuật và kỹ năng thực tế. Chúng tôi tin vào việc học thông qua thực hành và tạo cơ hội cho sinh viên phát triển chuyên môn ngay khi còn đang học đại học.",
+      "activities": {
+        "training": {
+          "title": "Đào tạo",
+          "description": "Chúng tôi cung cấp các chương trình đào tạo toàn diện trong nhiều lĩnh vực, giúp sinh viên phát triển kỹ năng thực tế đang được thị trường lao động yêu cầu."
+        },
+        "events": {
+          "title": "Sự kiện",
+          "description": "Chúng tôi tổ chức các hội thảo, buổi thuyết trình và sự kiện kết nối để giúp sinh viên tiếp xúc với các chuyên gia trong ngành và tạo cơ hội học tập."
+        }
+      }
+    },
+    "training": {
+      "title": "Chúng tôi đào tạo gì",
+      "description": "Các chương trình đào tạo của chúng tôi bao gồm nhiều lĩnh vực, tập trung vào kỹ năng thực tế và ứng dụng trong thế giới thực.",
+      "majors": {
+        "technology": {
+          "title": "Công nghệ",
+          "description": "Học các công nghệ tiên tiến và phương pháp phát triển hiện đại.",
+          "items": ["Phát triển Web", "Phát triển Mobile", "Trí tuệ nhân tạo"]
+        },
+        "marketing": {
+          "title": "Marketing Online",
+          "description": "Làm chủ các chiến lược và kỹ thuật marketing kỹ thuật số.",
+          "items": ["Content Marketing", "Social Media Marketing"]
+        },
+        "design": {
+          "title": "Thiết kế",
+          "description": "Phát triển kỹ năng thiết kế sáng tạo cho phương tiện kỹ thuật số và in ấn.",
+          "items": ["Thiết kế đồ họa", "Thiết kế UI/UX"]
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Thành viên nói gì về chúng tôi",
+      "description": "Lắng nghe từ các thành viên về trải nghiệm của họ với S-Group.",
+      "testimonials": [
+        {
+          "name": "Nguyễn Văn A",
+          "role": "Sinh viên Phát triển Web",
+          "content": "Tham gia S-Group là một trong những quyết định tốt nhất tôi đã làm trong những năm đại học. Đào tạo thực tế và cơ hội kết nối đã rất có giá trị cho sự nghiệp của tôi.",
+          "avatar": "/feedback-uyen.jpg"
+        },
+        {
+          "name": "Trần Thị B",
+          "role": "Sinh viên Marketing",
+          "content": "S-Group đã cung cấp cho tôi kinh nghiệm thực tế trong marketing kỹ thuật số mà tôi không thể có được từ các lớp học thông thường. Các mentor rất am hiểu và hỗ trợ.",
+          "avatar": "/feedback-uyen.jpg"
+        },
+        {
+          "name": "Lê Văn C",
+          "role": "Sinh viên Thiết kế UI/UX",
+          "content": "Các workshop thiết kế tại S-Group đã giúp tôi xây dựng một portfolio mạnh mẽ đã gây ấn tượng với nhà tuyển dụng. Tôi biết ơn vì những kỹ năng và sự tự tin mà tôi đã đạt được.",
+          "avatar": "/feedback-uyen.jpg"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "Về S-Group",
+    "description": "S-Group là một tổ chức do sinh viên lãnh đạo, tập trung vào việc phát triển kỹ năng thực tế và thúc đẩy sự phát triển chuyên môn cho sinh viên đại học. Chúng tôi tin vào việc học thông qua thực hành và tạo cơ hội cho sinh viên có được kinh nghiệm thực tế.",
+    "mission": {
+      "title": "Sứ mệnh của chúng tôi",
+      "description": "Trao quyền cho sinh viên với kỹ năng và kiến thức thực tế bổ sung cho giáo dục học thuật và chuẩn bị cho họ sự nghiệp thành công trong lĩnh vực công nghệ, marketing và thiết kế."
+    },
+    "vision": {
+      "title": "Tầm nhìn của chúng tôi",
+      "description": "Trở thành tổ chức sinh viên hàng đầu thu hẹp khoảng cách giữa học tập học thuật và yêu cầu của ngành, tạo ra một cộng đồng các chuyên gia có kỹ năng và tự tin."
+    }
+  },
+  "footer": {
+    "links": {
+      "home": "Trang chủ",
+      "about": "Về chúng tôi"
+    },
+    "contact": {
+      "title": "Liên hệ với chúng tôi",
+      "address": "123 Đường Đại học, Thành phố, Quốc gia",
+      "phone": "+84 123 456 789",
+      "email": "info@sgroup.com"
+    },
+    "social": {
+      "title": "Kết nối với chúng tôi",
+      "follow": "Theo dõi chúng tôi trên mạng xã hội để cập nhật và sự kiện"
+    },
+    "copyright": "© 2023 S-Group. Đã đăng ký bản quyền."
+  }
+}

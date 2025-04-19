@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "description": "S-Group - Student Organization"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us"
+  },
+  "home": {
+    "hero": {
+      "headline": "S-Group - Student Organization",
+      "description": "We are a student-led organization dedicated to developing skills and fostering growth in technology, marketing, and design.",
+      "cta": "Learn More"
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "S-Group was founded with a vision to bridge the gap between academic learning and practical skills. We believe in learning by doing and creating opportunities for students to grow professionally while still in university.",
+      "activities": {
+        "training": {
+          "title": "Training",
+          "description": "We provide comprehensive training programs in various fields, helping students develop practical skills that are in demand in the job market."
+        },
+        "events": {
+          "title": "Events",
+          "description": "We organize workshops, seminars, and networking events to connect students with industry professionals and create learning opportunities."
+        }
+      }
+    },
+    "training": {
+      "title": "What We Train",
+      "description": "Our training programs cover a wide range of fields, focusing on practical skills and real-world applications.",
+      "majors": {
+        "technology": {
+          "title": "Technology",
+          "description": "Learn cutting-edge technologies and development practices.",
+          "items": ["Web Development", "Mobile Development", "Artificial Intelligence"]
+        },
+        "marketing": {
+          "title": "Marketing Online",
+          "description": "Master digital marketing strategies and techniques.",
+          "items": ["Content Marketing", "Social Media Marketing"]
+        },
+        "design": {
+          "title": "Design",
+          "description": "Develop creative design skills for digital and print media.",
+          "items": ["Graphic Design", "UI/UX Design"]
+        }
+      }
+    },
+    "testimonials": {
+      "title": "What Our Members Say",
+      "description": "Hear from our members about their experiences with S-Group.",
+      "testimonials": [
+        {
+          "name": "John Doe",
+          "role": "Web Development Student",
+          "content": "Joining S-Group was one of the best decisions I made during my university years. The practical training and networking opportunities have been invaluable for my career.",
+          "avatar": "/feedback-uyen.jpg"
+        },
+        {
+          "name": "Jane Smith",
+          "role": "Marketing Student",
+          "content": "S-Group provided me with hands-on experience in digital marketing that I couldn't get from my regular classes. The mentors are knowledgeable and supportive.",
+          "avatar": "/feedback-uyen.jpg"
+        },
+        {
+          "name": "David Johnson",
+          "role": "UI/UX Design Student",
+          "content": "The design workshops at S-Group helped me build a strong portfolio that impressed my employers. I'm grateful for the skills and confidence I gained.",
+          "avatar": "/feedback-uyen.jpg"
+        }
+      ]
+    }
+  },
+  "about": {
+    "title": "About S-Group",
+    "description": "S-Group is a student-led organization dedicated to developing practical skills and fostering professional growth among university students. We believe in learning by doing and creating opportunities for students to gain real-world experience.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower students with practical skills and knowledge that complement their academic education and prepare them for successful careers in technology, marketing, and design."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading student organization that bridges the gap between academic learning and industry requirements, creating a community of skilled and confident professionals."
+    }
+  },
+  "footer": {
+    "links": {
+      "home": "Home",
+      "about": "About Us"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": "123 University Street, City, Country",
+      "phone": "+1 234 567 890",
+      "email": "info@sgroup.com"
+    },
+    "social": {
+      "title": "Connect With Us",
+      "follow": "Follow us on social media for updates and events"
+    },
+    "copyright": "© 2023 S-Group. All rights reserved."
+  }
+}
